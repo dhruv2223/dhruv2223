@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Javascript**
 
-- 📫 How to reach me **DHRUV.CHOTALIA017@svkmmumbai.onmicrosoft.com**
+- 📫 How to reach me *dhruvchotalia48@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
