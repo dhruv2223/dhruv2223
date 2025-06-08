@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **Python, Javascript**
+- 💬 Ask me about **Python, Javascript and Go**
 
 - 📫 How to reach me *dhruvchotalia48@gmail.com*
 
