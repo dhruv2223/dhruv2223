@@ -1,6 +1,6 @@
 ## Dhruv Chotalia
 
-B.Tech in Artificial Intelligence & Machine Learning at DJ Sanghvi College of Engineering (2023–2027). I build LLM agents, Go backends, and the evaluation tooling around them.
+B.Tech in Artificial Intelligence & Machine Learning at DJ Sanghvi College of Engineering (2023–2027). I build LLM agents, backends, and the evaluation tooling around them.
 
 **Currently**
 - Building [DiagramForge-ai](https://github.com/dhruv2223/diagramforge-ai): an LLM agent that generates and edits technical diagrams on a live Excalidraw canvas, with RAG and a Braintrust eval harness.
@@ -11,4 +11,4 @@ B.Tech in Artificial Intelligence & Machine Learning at DJ Sanghvi College of En
 
 **Stack:** Go, TypeScript, Python, C, Java · Node.js, React · PostgreSQL, ClickHouse, MongoDB · AWS, Cloudflare Workers, Docker, Terraform
 
-[LinkedIn](https://linkedin.com/in/dhruvchotalia22) · [LeetCode](https://leetcode.com/dhruvchotalia) · dhchotalia@gmail.com
+[LinkedIn](https://linkedin.com/in/dhruvchotalia22) · dhchotalia@gmail.com
